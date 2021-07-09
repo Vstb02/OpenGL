@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (GL_template.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Main.cpp
+  GL_template.vcxproj -> E:\Repos\Triangle\x64\Debug\GL_Triangle.exe
